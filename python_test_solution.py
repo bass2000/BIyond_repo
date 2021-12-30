@@ -55,6 +55,7 @@ def Question_2(directory):
 
 
 if __name__ == '__main__':
+    # test_commit
     path=(os.path.dirname(os.path.realpath(__file__)))
     print (Question_1(directory = path+'\\'+'Files_Question_1'))
 #The attached Files_Question_2 encoding format been change to UTF-8
